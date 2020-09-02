@@ -7,4 +7,5 @@
 ## To Run
 - Clone this Repo
 - Open terminal targeted to cloned root folder
-- Type "dotnet run" or "dotnet watch run"
+- run command "dotnet ef migrations add InitialMigration"
+- run command "dotnet run" or "dotnet watch run"
